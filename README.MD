@@ -4,7 +4,7 @@
 
 This repository contains:
 
-1. Java projects for JDK releases 1.7,1.8,1.11.
+1. Java projects for JDK releases 1.7,1.8,11,14
 2. Here we will see the core concepts with cool solutions for real time scenario.
 3. It is intended to write the scalable robust yet simple & maintainable core java code.
 
